@@ -15,7 +15,7 @@ The project demonstrates real-time rendering, particle systems, and parametric g
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
-Clone the repository using Git:
+# Clone the repository using Git:
 ```bash
 git clone https://github.com/Rohit-Nehate/galaxy-generator.git
 ````
