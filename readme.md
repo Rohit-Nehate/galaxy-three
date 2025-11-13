@@ -18,16 +18,19 @@ Run this followed commands:
 Clone the repository using Git:
 ```bash
 git clone https://github.com/Rohit-Nehate/galaxy-generator.git
+````
 
-
-
-``` bash
 # Install dependencies (only the first time)
+``` bash
 npm install
-
+```
 # Run the local server at localhost:8080
+``` bash
 npm run dev
+````
 
 # Build for production in the dist/ directory
+``` bash
+
 npm run build
 ```
